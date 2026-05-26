@@ -1,0 +1,26 @@
+{
+  "project_id": "proj_b7b5489d4b3e",
+  "name": "vayuyantra",
+  "description": "",
+  "os": "windows",
+  "os_version": "win11",
+  "default_browser": "chrome",
+  "test_case_count": 2,
+  "pushed_at": "2026-05-26T06:28:07.615801",
+  "test_cases": [
+    {
+      "test_case_id": "tc_1dd45ce69b72",
+      "title": "vayuyantra - about - contact us",
+      "flow_name": "test_navigate_home_about_contact_20260525_124735.py",
+      "browser": "chrome",
+      "file": "tests/vayuyantra_-_about_-_contact_us.py"
+    },
+    {
+      "test_case_id": "tc_23340dc77349",
+      "title": "vayuyantra - contact us - details - submit",
+      "flow_name": "test_contact_form_mandatory_field_validation_20260525_130429.py",
+      "browser": "chrome",
+      "file": "tests/vayuyantra_-_contact_us_-_details_-_submit.py"
+    }
+  ]
+}
