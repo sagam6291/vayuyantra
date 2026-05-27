@@ -5,8 +5,8 @@
   "os": "windows",
   "os_version": "win11",
   "default_browser": "chrome",
-  "test_case_count": 2,
-  "pushed_at": "2026-05-26T10:54:58.542036",
+  "test_case_count": 3,
+  "pushed_at": "2026-05-27T06:50:42.435257",
   "test_cases": [
     {
       "test_case_id": "tc_1dd45ce69b72",
@@ -21,6 +21,13 @@
       "flow_name": "test_contact_form_mandatory_field_validation_20260525_130429.py",
       "browser": "chrome",
       "file": "tests/vayuyantra_-_contact_us_-_details_-_submit.py"
+    },
+    {
+      "test_case_id": "tc_440fd3fd85c7",
+      "title": "vayuyantra - contact us - details - send message",
+      "flow_name": "test_contact_us_form_submission_partial_fields_20260526_175541.py",
+      "browser": "chrome",
+      "file": "tests/vayuyantra_-_contact_us_-_details_-_send_message.py"
     }
   ]
 }
