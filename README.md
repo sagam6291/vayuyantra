@@ -6,7 +6,7 @@ _No description provided._
 
 - **OS:** windows (win11)
 - **Default browser:** chrome
-- **Test cases:** 2
+- **Test cases:** 3
 
 ## Layout
 
